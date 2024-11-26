@@ -1,0 +1,49 @@
+{
+    "window.commandCenter": true,
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "files.autoSave": "afterDelay",
+    "editor.fontWeight": "big",
+    "diffEditor.wordWrap": "on",
+    "editor.wordWrap": "on",
+    "workbench.editorAssociations": {
+        "*.sav": "default",
+        "*.jar": "default",
+        "*.ttf": "default"
+    },
+    "editor.fontLigatures": false,
+    "editor.fontVariations": true,
+    "editor.fontSize": 16,
+    "editor.fontFamily": "Minecraft",
+    "java.completion.favoriteStaticMembers": [
+
+        "com.sun.misc.Unsafe",
+        "org.junit.Assert.*",
+        "org.junit.Assume.*",
+        "org.junit.jupiter.api.Assertions.*",
+        "org.junit.jupiter.api.Assumptions.*",
+        "org.junit.jupiter.api.DynamicContainer.*",
+        "org.junit.jupiter.api.DynamicTest.*",
+        "org.mockito.Mockito.*",
+        "org.mockito.ArgumentMatchers.*",
+        "org.mockito.Answers.*"
+    ],
+    "workbench.colorTheme": "windows-xp",
+    "workbench.iconTheme": "windows-xp-icons",
+    "terminal.integrated.fontFamily": "Minecraft",
+    "chatgpt.lang": "en",
+    "python.createEnvironment.trigger": "off",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "java.import.gradle.jvmArguments": "--add-exports java.base/com.sun=ALL-UNNAMED",
+    "editor.suggest.showDeprecated": false,
+    "editor.showDeprecated": false,
+    "java.debug.settings.vmArgs": "--app-exports java.base/com.sun=ALL-UNNMAED",
+    "java.jdt.ls.vmargs": "",
+    "java.debug.settings.exceptionBreakpoint.skipClasses": [
+
+    ],
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "editor.inlayHints.fontFamily": "Minecraft"
+}
